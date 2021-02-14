@@ -7,6 +7,7 @@ namespace Traffic
     {
         static void Main()
         {
+
         }
     }
 }
